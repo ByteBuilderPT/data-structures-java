@@ -1,5 +1,5 @@
 # github-demo
 
-Implementation of Data Structures in JAVA with explanations and problems.
+This is my first repo.
 <br>
 Author - Prashant Thakur (Aditya)
